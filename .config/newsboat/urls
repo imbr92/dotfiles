@@ -1,0 +1,19 @@
+# Math
+https://terrytao.wordpress.com/feed/ "math" "~MATH: Terence Tao Blog"
+https://sos440.blogspot.com/feeds/posts/default "math" "~MATH: sos440 Blog"
+
+# Linux/Systems
+https://lukesmith.xyz/rss.xml "linux" "lifestyle" "~LINUX: Luke Smith Blog"
+https://stallman.org/rss/rss.xml "linux" "lifestyle" "~LINUX: Richard Stallman Blog"
+https://static.fsf.org/fsforg/rss/blogs.xml "linux" "~LINUX: Free Software Foundation"
+https://planet.gnu.org/rss20.xml "linux" "~LINUX: GNU Project"
+https://0pointer.net/blog/index.rss20 "linux" "~LINUX: Lennart Poettering Blog"
+
+# Competitive Programming
+https://mzhang2021.github.io/cp-blog/feed.xml "comp-prog" "~CP: smax Blog"
+
+# News
+https://edwardsnowden.substack.com/feed "news" "~NEWS: Edward Snowden Blog"
+https://hnrss.org/frontpage "news" "~NEWS: Y-Combinator Hacker News"
+
+# https://news.ycombinator.com/rss "news" "~NEWS: Y-Combinator Hacker News"
