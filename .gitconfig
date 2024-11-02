@@ -1,0 +1,7 @@
+[user]
+	name = imbr92
+	email = 40306754+imbr92@users.noreply.github.com
+[core]
+	editor = nvim
+[http]
+	postBuffer = 157286400
