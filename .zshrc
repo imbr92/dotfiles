@@ -78,5 +78,12 @@ lfcd () {
 bindkey -s '^o' '^ulfcd\n'
 
 path+=('/home/seal/.cargo/bin')
+path+=('/opt/cuda/bin')
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+export TMPDIR=~/tmp # Set TMPDIR inside /home since / is space bound
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
 
 source $HOME/.zsh/aliases

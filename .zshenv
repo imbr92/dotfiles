@@ -2,6 +2,8 @@ export EDITOR="nvim"
 export TERMINAL="st"
 export LIBVA_DRIVER_NAME="iHD"
 
+export CC=gcc
+
 # lf icons
 export LF_ICONS="\
 tw=:\
@@ -166,3 +168,6 @@ ex=:\
 *.nix=:\
 "
 export LC_ALL=en_US.UTF-8
+
+# For GPU MODE popcorn-cli
+export POPCORN_API_URL="https://discord-cluster-manager-1f6c4782e60a.herokuapp.com"
