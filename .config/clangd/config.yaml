@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -x
+    - cuda
+    - --cuda-gpu-arch=sm_70
+    - -I/usr/local/include
+    - -I/home/seal/Documents/projects/ThunderKittens/include
