@@ -104,3 +104,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+export PATH="$HOME/.local/share/gem/ruby/3.4.0/bin:$PATH"

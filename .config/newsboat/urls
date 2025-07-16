@@ -8,6 +8,8 @@ https://stallman.org/rss/rss.xml "linux" "lifestyle" "~LINUX: Richard Stallman B
 https://static.fsf.org/fsforg/rss/blogs.xml "linux" "~LINUX: Free Software Foundation"
 https://planet.gnu.org/rss20.xml "linux" "~LINUX: GNU Project"
 https://0pointer.net/blog/index.rss20 "linux" "~LINUX: Lennart Poettering Blog"
+https://axcheron.github.io/feed.xml "linux" "LINUX: Axcheron Blog"
+https://thume.ca/atom.xml "linux" "LINUX: Thume Blog"
 
 # Competitive Programming
 https://mzhang2021.github.io/cp-blog/feed.xml "comp-prog" "~CP: smax Blog"
