@@ -3,11 +3,11 @@ CompileFlags:
     - -std=c++20
     - -I/usr/local/include
 
-If:
-  PathMatch: ".*\\.(cu|cuh)$"
-  CompileFlags:
-    Add:
-      - -x
-      - cuda
-      - --cuda-gpu-arch=sm_70
-      - -I/home/seal/Documents/projects/ThunderKittens/include
+  Conditional:
+    - If:
+        PathMatch: ".*\\.(cu|cuh)$"
+      Add:
+        - -x
+        - cuda
+        - --cuda-gpu-arch=sm_70
+        - -I/home/seal/Documents/projects/ThunderKittens/include
